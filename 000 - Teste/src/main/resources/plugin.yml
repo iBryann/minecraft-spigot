@@ -1,0 +1,4 @@
+name: Revisao
+version: '${project.version}'
+main: me.revisao.Revisao
+api-version: 1.18

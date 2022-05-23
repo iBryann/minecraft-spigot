@@ -1,0 +1,6 @@
+name: TripleShot
+version: '${project.version}'
+main: me.tripleshot.TripleShot
+api-version: 1.18
+commands:
+  arco:
