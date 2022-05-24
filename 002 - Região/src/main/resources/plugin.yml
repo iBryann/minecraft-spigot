@@ -1,0 +1,8 @@
+name: Region
+version: '${project.version}'
+main: me.region.Region
+api-version: 1.18
+
+commands:
+  a:
+  b:
