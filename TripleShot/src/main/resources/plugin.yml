@@ -1,0 +1,6 @@
+name: TripleShop
+version: '${project.version}'
+main: me.craftroca.Craftroca
+api-version: 1.19
+commands:
+  arco:
