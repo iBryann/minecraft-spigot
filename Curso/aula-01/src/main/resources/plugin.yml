@@ -1,0 +1,4 @@
+name: Aula-01
+version: '${project.version}'
+main: curso.aula01.Aula01
+api-version: 1.16
